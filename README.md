@@ -10,7 +10,7 @@
 <!--[<img align="left" width="22px" height="21px" src="https://user-images.githubusercontent.com/70031291/150647345-62cdf6ee-a2c3-4b80-88f2-70ee354a8d59.jpg" />][mail]-->
 <br> 
 <br>
-<img align="left" alt="arjun" src="https://github-readme-stats.vercel.app/api?username=BharadwajSavan&show_icons=true&hide_border=true&theme=radical"  />
+<img align="center" alt="arjun" src="https://github-readme-stats.vercel.app/api?username=BharadwajSavan&show_icons=true&hide_border=true&theme=radical"  />
 <!--
 **BharadwajSavan/BharadwajSavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
