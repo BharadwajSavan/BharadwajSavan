@@ -1,8 +1,8 @@
 ### Hi there 👋! I'm Bharadwaj
 ## I'm a student, developer.
 
-- I'm intrested in learning! (Everything...)
-- I love to listen! (Everything...)
+- I'm intrested in learning! (<i>Everything...</i>)
+- I love to listen! (<i>to Everything...</i>)
 - 2022 Goals: Contribute to Open Source Projects
 
 #### connect with me:
