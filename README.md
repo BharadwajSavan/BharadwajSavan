@@ -9,8 +9,10 @@
 [<img align="left" width="22px" src="https://user-images.githubusercontent.com/70031291/150647069-1ba1a5e2-3e01-44ca-a6ad-55a35320aac3.png" />][linkedin]
 <!--[<img align="left" width="22px" height="21px" src="https://user-images.githubusercontent.com/70031291/150647345-62cdf6ee-a2c3-4b80-88f2-70ee354a8d59.jpg" />][mail]-->
 <br> 
-<br>
-<img align="center" alt="arjun" src="https://github-readme-stats.vercel.app/api?username=BharadwajSavan&show_icons=true&hide_border=true&theme=radical"  />
+
+---
+
+<p align="center" ><img alt="arjun" src="https://github-readme-stats.vercel.app/api?username=BharadwajSavan&show_icons=true&hide_border=true&theme=radical"  /> </p>
 <!--
 **BharadwajSavan/BharadwajSavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
