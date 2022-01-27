@@ -4,6 +4,7 @@
 - I'm intrested in learning! (<i>Everything...</i>)
 - I love to listen! (<i>to Everything...</i>)
 - 2022 Goals: Contribute to Open Source Projects
+- <i>fantasy to learn atleast one programming language, starting with each alphabet.</i>
 
 #### connect with me:
 [<img align="left" width="22px" src="https://user-images.githubusercontent.com/70031291/150647069-1ba1a5e2-3e01-44ca-a6ad-55a35320aac3.png" />][linkedin]
