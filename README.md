@@ -5,6 +5,7 @@
 - I love to listen! (<i>to Everything...</i>)
 - 2022 Goals: Contribute to Open Source Projects
 - <i>fantasy to learn atleast one programming language, starting with each alphabet.</i>
+- Learn, Apply, Share...
 
 #### connect with me:
 [<img align="left" width="22px" src="https://user-images.githubusercontent.com/70031291/150647069-1ba1a5e2-3e01-44ca-a6ad-55a35320aac3.png" />][linkedin]
@@ -32,3 +33,5 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/savan-bharadwaj-3289b91b1/
 <!--[mail]: https://mailto: savanbharadwaj379@gmail.com-->
+
+
