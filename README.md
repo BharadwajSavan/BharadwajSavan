@@ -12,6 +12,7 @@
 <!--[<img align="left" width="22px" height="21px" src="https://user-images.githubusercontent.com/70031291/150647345-62cdf6ee-a2c3-4b80-88f2-70ee354a8d59.jpg" />][mail]-->
 <br> 
 
+
 ---
 
 <p align="center" ><img alt="arjun" src="https://github-readme-stats.vercel.app/api?username=BharadwajSavan&show_icons=true&hide_border=true&theme=radical"  /> </p>
@@ -37,7 +38,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+check out my second profile [here][arjunlink]
+
 [linkedin]: https://www.linkedin.com/in/savan-bharadwaj-3289b91b1/
 <!--[mail]: https://mailto: savanbharadwaj379@gmail.com-->
-
+[arjunlink]: https://github.com/codester4u
 
