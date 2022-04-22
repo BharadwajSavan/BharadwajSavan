@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 -->
 
 
-check out my second profile [here][arjunlink]
-
+<!--check out my second profile [here][arjunlink]
+-->
 [linkedin]: https://www.linkedin.com/in/savan-bharadwaj-3289b91b1/
 <!--[mail]: https://mailto: savanbharadwaj379@gmail.com-->
 [arjunlink]: https://github.com/codester4u
