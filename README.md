@@ -20,7 +20,7 @@
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=BharadwajSavan&color=red" alt="image" />
+<img src="https://komarev.com/ghpvc/?username=BharadwajSavan&color=green" alt="image" />
  </p>
 
 <!--
