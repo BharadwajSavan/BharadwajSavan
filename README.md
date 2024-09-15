@@ -3,7 +3,6 @@
 
 - I'm intrested in learning! (<i>Everything...</i>)
 - I love to listen! (<i>to Everything...</i>)
-- 2022 Goals: Contribute to Open Source Projects
 - <i>fantasy to learn programming languages (Atleast one), starting with each alphabet.</i>
 - Learn, Apply, Share...
 
