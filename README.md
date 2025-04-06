@@ -3,7 +3,7 @@
 
 - I'm intrested in learning! (<i>Everything...</i>)
 - I love to listen! (<i>to Everything...</i>)
-- <i>fantasy to learn programming languages (Atleast one), starting with each alphabet.</i>
+<!--   <i>fantasy to learn programming languages (Atleast one), starting with each alphabet.</i> -->
 - Learn, Apply, Share...
 
 #### connect with me:
