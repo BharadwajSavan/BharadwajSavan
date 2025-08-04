@@ -1,5 +1,5 @@
 ### Hi there 👋! I'm Bharadwaj
-## I'm a student, developer.
+## I'm a developer, data Scientist.
 
 - I'm intrested in learning! (<i>Everything...</i>)
 - I love to listen! (<i>to Everything...</i>)
